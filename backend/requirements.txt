@@ -1,0 +1,6 @@
+Flask
+flask-socketio
+Flask-Cors
+ecdsa
+cryptography
+pyjwt
